@@ -12,6 +12,26 @@
 | Windown |    Notepad++ |   IE | Zeplin, invision |
 
 ***
+
+![alt text](https://www.geeky-gadgets.com/wp-content/uploads/2014/04/Ubuntu-14.04-LTS.jpg "Front-end Developer")
+
+![alt text](https://media.idownloadblog.com/wp-content/uploads/2018/06/macOS-Mojave-Stacks-MAcBook-Pro.jpg "Front-end Developer")
+
+![alt text](https://www.lifewire.com/thmb/P2E93fVLr4TNMBc-LHyn5d3-paQ=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/windows-10-14328-580797c43df78cbc285096a1.png "Front-end Developer")
+
+
+***
+
+![alt text](https://cdn.windowsreport.com/wp-content/uploads/2018/06/microsoft-visual-studio-2019.png "Front-end Developer")
+
+![alt text](https://tecadmin.net/wp-content/uploads/2014/11/sublime-text.png "Front-end Developer")
+
+![alt text](https://www.omgubuntu.co.uk/wp-content/uploads/2017/05/atom-text-editor-on-ubuntu-1704.jpg "Front-end Developer")
+
+![alt text](https://www.techworld.com/cmsdata/downloads/34547/largeImg_thumb800.png?version=7%2E7%2E1 "Front-end Developer")
+
+
+
 <!-- 
 <dl>
   <dt>Systems</dt>
