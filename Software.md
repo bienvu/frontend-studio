@@ -9,10 +9,10 @@
 | Ubuntu (recomment)     | Visual Studio Code (recomment) | Chrome (recomment) | Photoshop (recomment)|
 | MacOS (recomment)      | Sublime Text      |   Firefox |XD|
 | Windown |    Atom |   Safari |Sketch|
-| Windown |    Notepad++ |   IE | |
+| Windown |    Notepad++ |   IE | Zeplin, invision |
 
 ***
-
+<!-- 
 <dl>
   <dt>Systems</dt>
   <dd>Ubuntu (recomment)</dd>
@@ -36,4 +36,4 @@
   <dd>XD</dd>
   <dd>Sketch</dd>
   <dd>Zeplin, invision</dd>
-</dl>
+</dl> -->
