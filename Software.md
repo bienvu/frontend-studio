@@ -5,7 +5,7 @@
 # Software
 
 | Systems        | Code editer           | Browser  | Design  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| -----:| -----:|
 | Ubuntu (recomment)     | Visual Studio Code (recomment) | Chrome (recomment) | Photoshop (recomment)|
 | MacOS (recomment)      | Sublime Text      |   Firefox |XD|
 | Windown |    Atom |   Safari |Sketch|
