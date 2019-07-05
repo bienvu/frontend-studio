@@ -18,19 +18,19 @@
   <dd>Ubuntu (recomment)</dd>
   <dd>MacOS (recomment)</dd>
   <dd>Windown</dd>
-  ---
+
   <dt>Code editer</dt>
   <dd>Visual Studio Code (recomment)</dd>
   <dd>Sublime Text</dd>
   <dd>Notepad++</dd>
   <dd>Atom</dd>
-  ---
+
   <dt>Browser</dt>
   <dd>Chrome (recomment)</dd>
   <dd>Firefox</dd>
   <dd>Safari</dd>
   <dd>IE</dd>
-  ---
+
   <dt>Design</dt>
   <dd>Photoshop (recomment)</dd>
   <dd>XD</dd>
