@@ -9,7 +9,7 @@
 | Ubuntu (recomment)     | Visual Studio Code (recomment) | Chrome (recomment) | Photoshop (recomment)|
 | MacOS (recomment)      | Sublime Text      |   Firefox |XD|
 | Windown |    Atom |   Safari |Sketch|
-| Windown |    Notepad++ |   IE | Zeplin, invision |
+|  |    Notepad++ |   IE | Zeplin, invision |
 
 ***
 
